@@ -48,10 +48,10 @@ Edit config.json with your bot token and guild ID:
 Main Menu Options:
 ```
          ╔══════════════════════════════╦════════════════════════════╗
-         ║         Version: 1        	  ║        Dev: Freak          ║
+         ║         Version: 1        	 ║        Dev: Freak          ║
          ╚══════════════════════════════╩════════════════════════════╝
  ╔══════════════════════════╦══════════════════════════╦════════════════════════╗
- ║    [1] Send Message      ║    [2] Create Channel     ║      [3] Create Role   ║
+ ║    [1] Send Message      ║    [2] Create Channel    ║      [3] Create Role   ║
  ╠══════════════════════════╬══════════════════════════╬════════════════════════╣
  ║ [4] Send Webhook Message ║  [5] Change Bot Activity ║   [6] Start AutoBot    ║
  ╚══════════════════════════╩══════════════════════════╩════════════════════════╝  
