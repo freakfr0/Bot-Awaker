@@ -1,0 +1,12 @@
+{
+    "token": "",
+    "guild_id": "",
+    "auto_commands": {
+        "hellp": "Hello I'm Bot",
+        "hi": "Sup",
+        "ping": "Pong!",
+        "uptime": "Running for X minutes"
+    }
+}
+
+
